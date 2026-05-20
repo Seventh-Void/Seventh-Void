@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a squirrel with a camera trying to understand coding and GitHub.  <br>Photography is my main thing, but I'm slowly getting into dev stuff too.<br><br>Expect random experiments and probably some chaos.
+I'm a squirrel with a camera trying to understand coding and GitHub and website building.  <br>Photography is my main thing, but I'm slowly getting into dev stuff too.<br><br>Expect random experiments and probably some chaos.
 
 
 ## 🌐 Socials:
