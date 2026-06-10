@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a squirrel with a camera trying to understand coding and GitHub and website building.  <br>Photography is my main thing, but I'm slowly getting into dev stuff too.
 
-Right now, I'm building things using **vibecoding and AI**. My goal isn't just to make things work for myself—I want to use AI to create awesome, impactful tools that can help everyone. If it can help me solve a problem, it can definitely help someone else too! <br><br>Expect random experiments and probably some chaos.
+Right now, I'm building things using **vibecoding and AI**. My goal isn't just to make things work for myself. I want to use AI to create awesome, impactful tools that can help everyone. If it can help me solve a problem, it can definitely help someone else too! <br><br>Expect random experiments and probably some chaos.
 
 
 ## 🌐 Socials:
