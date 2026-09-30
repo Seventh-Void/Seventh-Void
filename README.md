@@ -7,7 +7,7 @@
 
 ## 💜 Hey there!
 
-I'm **SeventhVoid**, I'm a purple squirrel That loves taking photos!. You'll usually find me photographing fur meets and cons around the UK (thousands of photos and counting!), hanging out in VRChat, or tinkering with my homelab.
+I'm **SeventhVoid**, a purple squirrel with a camera. You'll usually find me photographing fur meets and cons around the UK (thousands of photos and counting!), hanging out in VRChat, or tinkering with my homelab.
 
 Photography is my main thing, but I'm getting more and more into dev stuff. I build with **Claude Code** (yes, it's vibecoding 🐿️), and I want to make tools that actually help people. If something fixes a problem for me, it'll probably fix it for someone else too.
 
@@ -18,7 +18,6 @@ Expect random experiments and a bit of chaos.
 | Project | What it does |
 | --- | --- |
 | 🔦 [**lighthouse-management**](https://github.com/Seventh-Void/lighthouse-management) | Native Linux app for SteamVR Base Station 2.0: power, channels, interference check over Bluetooth |
-| 😶 [**Qpro-Enhanced-FT-Wireless-Linux**](https://github.com/Seventh-Void/Qpro-Enhanced-FT-Wireless-Linux) | Quest Pro face tracking on Linux: WiVRn, VRCFaceTracking, VRChat and Resonite |
 | 💡 [**raingel-led-hass**](https://github.com/Seventh-Void/raingel-led-hass) | Home Assistant integration for Raingel Bluetooth LED lights. HACS + HomeKit friendly |
 | 📸 [**VRChat-Screenshot-Organizer**](https://github.com/Seventh-Void/VRChat-Screenshot-Organizer) | Sorts out the mountain of VRChat screenshots |
 | 🐿️ [**seventhvoid.uk**](https://seventhvoid.uk) | My site: Cloudflare Worker, Durable Object boop counter, and hourly photo sync from Playbook |
