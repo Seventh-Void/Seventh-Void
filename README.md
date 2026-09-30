@@ -7,7 +7,7 @@
 
 ## 💜 Hey there!
 
-I'm **SeventhVoid**, a purple squirrel with a camera. You'll usually find me photographing fur meets and cons around the UK (thousands of photos and counting!), hanging out in VRChat, or tinkering with my homelab.
+I'm SeventhVoid, I'm a purple squirrel That loves taking photos!. You'll usually find me photographing fur meets and cons around the UK (thousands of photos and counting!), hanging out in VRChat, or tinkering with my homelab.
 
 Photography is my main thing, but I'm getting more and more into dev stuff. I build with **Claude Code** (yes, it's vibecoding 🐿️), and I want to make tools that actually help people. If something fixes a problem for me, it'll probably fix it for someone else too.
 
