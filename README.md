@@ -17,6 +17,7 @@ Expect random experiments and a bit of chaos.
 
 | Project | What it does |
 | --- | --- |
+| 🥽 [**WiVRn-QPro-OSC**](https://github.com/Seventh-Void/WiVRn-QPro-OSC) | WiVRn fork: Quest Pro face, eye, tongue and pupil tracking straight to VRChat and Resonite over OSC. No VRCFaceTracking needed |
 | 🔦 [**lighthouse-management**](https://github.com/Seventh-Void/lighthouse-management) | Native Linux app for SteamVR Base Station 2.0: power, channels, interference check over Bluetooth |
 | 💡 [**raingel-led-hass**](https://github.com/Seventh-Void/raingel-led-hass) | Home Assistant integration for Raingel Bluetooth LED lights. HACS + HomeKit friendly |
 | 📸 [**VRChat-Screenshot-Organizer**](https://github.com/Seventh-Void/VRChat-Screenshot-Organizer) | Sorts out the mountain of VRChat screenshots |
